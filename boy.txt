@@ -2,3 +2,6 @@ boys are taller than girls
 boys are ugglier than girls
 boys are stronger than girls
 boys are more brave than girls
+
+girls are smarter than boys
+girls are smaller than boys
